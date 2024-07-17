@@ -55,7 +55,6 @@ O Pedido Verde é uma aplicação voltada para produtores rurais, escolas e secr
 
 Nota: Este projeto não é open-source, por isso não é acessível publicamente. Se desejar mais informações, entre em contato diretamente comigo.
 
-[Repositório do Projeto](https://github.com/jairnhzedinger/pedido-verde)
 
 
 
