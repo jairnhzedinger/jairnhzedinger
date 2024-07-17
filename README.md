@@ -81,6 +81,7 @@ Você pode me encontrar em:
 ---
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jairnhzedinger&theme=radical)
+
 ![GitHub followers](https://img.shields.io/github/followers/jairnhzedinger?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/jairnhzedinger?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jairnhzedinger/pedido-verde)
