@@ -31,8 +31,6 @@
 ## 🔥 Meus Repositórios Favoritos
 
 - [Pedido Verde](https://github.com/jairnhzedinger/pedido-verde) 🌿
-- [Awesome-Project](https://github.com/jairnhzedinger/awesome-project) 🌟
-- [My-Crypto-Tracker](https://github.com/jairnhzedinger/my-crypto-tracker) 📈
 
 ---
 
