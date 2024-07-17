@@ -86,7 +86,6 @@ Você pode me encontrar em:
 ![GitHub followers](https://img.shields.io/github/followers/jairnhzedinger?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/jairnhzedinger?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jairnhzedinger/pedido-verde)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jairnhzedinger.jairnhzedinger)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-v20.0.0-green)
